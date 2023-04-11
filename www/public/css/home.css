@@ -1,0 +1,15 @@
+.hero {
+    min-height: 100vh;
+}
+
+.find-out {
+    letter-spacing: 3px;
+    color: rgb(179, 179, 179);
+    font-size: 0.8rem;
+    margin-top: 120px;
+}
+
+.number {
+    font-family: 'DM Serif Display';
+    font-size: 1rem;
+}
